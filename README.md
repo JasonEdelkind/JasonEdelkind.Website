@@ -1,2 +1,3 @@
-# JasonEdelkind.Website
-This is a repository for my own personal website, summarizing my work experience, grduate thesis work, and education
+# github12
+
+I have created a website to advertise my background and skills in the wildlife profession
